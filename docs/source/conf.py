@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'howtohackfacebook'
+copyright = '2021, howtohackfacebook'
+author = 'howtohackfacebook'
 
 release = '0.1'
 version = '0.1.0'
