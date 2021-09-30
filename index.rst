@@ -1,5 +1,6 @@
  
-[LEGIT] Online Hack Facebook Password and Account - Fully Working in 2021!
+[LEGIT] Online Hack Facebook Password and Account - Fully Working in 2021!3
+===================================
 
 FIRST, let me make myself clear! Don't expect to hack facebook account free as that just isn't going to happen. You either need some sort of a spying software to hack facebook account or actually have the phone or computer of the »victim«, to get their login credentials to facebook and even then if they have two auth enabled, you are basically screwed as hacking facebook password and the account with authenticator is hard except if you got their phone obviously. But don't panic just yet because we know that people DO NOT LIKE LINKING their phone number to their facebook account. 
  
